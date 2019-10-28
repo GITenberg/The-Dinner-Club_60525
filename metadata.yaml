@@ -1,0 +1,36 @@
+_repo: The-Dinner-Club_60525
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McNeile, H. C. (Herman Cyril)
+    aliases:
+    - McNeile, Cyril
+    - McNeile, Herman Cyril
+    birthdate: 1888
+    deathdate: 1937
+    gutenberg_agent_id: '26827'
+    url: http://www.gutenberg.org/2009/agents/26827
+    wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
+description: ''
+gutenberg_issued: '2019-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Men -- Societies and clubs -- Fiction'
+- !lcsh 'Storytelling -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The actor's story, being The patch on the quilt -- The barrister's
+  story, being The decision of Sir Edward Shoreham -- The doctor's story, being Sentence
+  of death -- The ordinary man's story, being The pipes of death -- The soldier's
+  story, being A bit of orange peel -- The writer's story, being The house at Appledore
+  -- The old dining room -- When Greek meets Greek -- Jimmy Lethbridge's temptation
+  -- Lady Cynthia and the hermit -- A glass of whisky -- The man who could not get
+  drunk.
+title: The Dinner Club
+url: http://www.gutenberg.org/ebooks/60525
